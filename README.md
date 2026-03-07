@@ -1,4 +1,4 @@
-# Airy TV Playlist Generator
+# ⭐ Airy TV Playlist Generator
 
 Automated scraper for Airy TV channels and EPG data.
 
